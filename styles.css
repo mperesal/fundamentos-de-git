@@ -2,4 +2,6 @@ p {
     color: blue;
     background: pink;
     padding: 10px;
+    font-family: arial;
+    font-size: 14px;
 }
