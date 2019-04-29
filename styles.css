@@ -8,3 +8,17 @@ p {
     border-radius: 4px;
     line-height: 15px;
 }
+
+ul {
+    list-style-type: none;
+}
+h1 {
+    font-family: arial;
+}
+
+li {
+    font-size: 15px;
+    font-family: arial;
+    display: inline;
+    padding-right: 10%;
+}
